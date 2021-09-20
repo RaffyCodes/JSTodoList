@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: white;     
+}
+    
+li {
+    color: white;
+    font-weight: 100;
+}
+
+section {
+    padding-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #root {
+    color: #fff;
+    background: #35475F;
+    padding: 120px;
+    display: inline-block;
+  }
